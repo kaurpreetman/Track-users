@@ -22,7 +22,7 @@ The **User Management Project** is a simple application designed for learning pu
 
 1. **Clone the repository**:
    ```bash
-   git clone # User Management Project 👥
+   git clone # Track-users 👥
 
 ## Overview 📝
 
